@@ -1,0 +1,3431 @@
+[{
+  "_id": {
+    "$oid": "661e82096ca1c9edd24786a2"
+  },
+  "text": "تتبع الكلمة التالية",
+  "difficulty": 1,
+  "type": "font tracing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2fxs2p.png",
+  "placeholder": "placeholders/lvsihrd1.jpg",
+  "audio": "audios/lv2fxsbi.mp3",
+  "__v": 0,
+  "points": "tracing/lvsihrd1.json"
+},
+{
+  "_id": {
+    "$oid": "661eb0bf6c946268724d4bfc"
+  },
+  "text": "اختر الحرف المنقوط من الحروف التالية",
+  "difficulty": 1,
+  "type": "checkbox",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [
+    {
+      "text": "خ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661eb0bf6c946268724d4bfd"
+      }
+    },
+    {
+      "text": "ر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661eb0bf6c946268724d4bfe"
+      }
+    },
+    {
+      "text": "و",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661eb0bf6c946268724d4bff"
+      }
+    },
+    {
+      "text": "ف",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661eb0bf6c946268724d4c00"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2n232q.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661eb4f62b2fbc553680f091"
+  },
+  "text": "أكمل النقاط في الكلمة التالية",
+  "difficulty": 2,
+  "type": "dots",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [
+    147,
+    70,
+    218,
+    217
+  ],
+  "image": "images/lv2np7xy.png",
+  "placeholder": "placeholder/lvt9ptaj.jpg",
+  "audio": "audios/lv2np8fp.mp3",
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "661eb6924bfe34a84ae67b14"
+  },
+  "text": "أكمل النقاط في الكلمة التالية",
+  "difficulty": 1,
+  "type": "dots",
+  "skillId": "66322964f92994aba6e10127",
+  "options": [],
+  "dots": [
+    234,
+    81,
+    156,
+    195,
+    177,
+    195
+  ],
+  "image": "images/lv2ny1g3.png",
+  "placeholder": "placeholder/lvt9nwe5.jpg",
+  "audio": "audios/lv2ny1qg.mp3",
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "661eb75ef2b5b2b42922fac0"
+  },
+  "text": "أكمل النقاط في الكلمة التالية",
+  "difficulty": 2,
+  "type": "dots",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [
+    199,
+    67,
+    252,
+    67,
+    271,
+    67
+  ],
+  "image": "images/lv2o2f7g.png",
+  "placeholder": "placeholder/lvt9q5ji.jpg",
+  "audio": "audios/lv2o2fhr.mp3",
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "661eb8784bfe34a84ae67b1c"
+  },
+  "text": "ضع النقاط الناقصة فيما يلي",
+  "difficulty": 3,
+  "type": "dots",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [
+    248,
+    206
+  ],
+  "image": "images/lv2o8h1z.png",
+  "placeholder": "placeholder/lvt9qpxz.jpg",
+  "audio": "audios/lv2o8he3.mp3",
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "661eb8e22b2fbc553680f0a8"
+  },
+  "text": "ضع النقاط الناقصة فيما يلي",
+  "difficulty": 3,
+  "type": "dots",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [
+    63,
+    85,
+    231,
+    85
+  ],
+  "image": "images/lv2oaqjm.png",
+  "placeholder": "placeholder/lvt9oeyj.jpg",
+  "audio": "audios/lv2oaquj.mp3",
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "661eb9582b2fbc553680f0b3"
+  },
+  "text": "ضع النقاط الناقصة فيما يلي",
+  "difficulty": 3,
+  "type": "dots",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [
+    83,
+    179,
+    177,
+    202
+  ],
+  "image": "images/lv2od9fc.png",
+  "placeholder": "placeholder/lvt9ou5f.jpg",
+  "audio": "audios/lv2od9mu.mp3",
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "661eb9ca9ecba0e914355fb7"
+  },
+  "text": "تتبع الكلمة التالية",
+  "difficulty": 1,
+  "type": "font tracing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2ofpxe.png",
+  "placeholder": "placeholders/lvsifby6.jpg",
+  "audio": "audios/lv2ofq5y.mp3",
+  "__v": 0,
+  "points": "tracing/lvsifby6.json"
+},
+{
+  "_id": {
+    "$oid": "661ebb7cf2b5b2b42922fad8"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 1,
+  "type": "writing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2op01s.png",
+  "expectedWord": "ذهب",
+  "audio": "audios/lv2op076.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ebbc779d1cad7b998f159"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 1,
+  "type": "writing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2oqmni.png",
+  "expectedWord": "نار",
+  "audio": "audios/lv2oqn08.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ebbc879d1cad7b998f15d"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 1,
+  "type": "writing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2oqnbm.png",
+  "expectedWord": "نار",
+  "audio": "audios/lv2oqnee.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ebc1c8fd0db0c6116741b"
+  },
+  "text": "(ذكي) اكتب مما يلي",
+  "difficulty": 1,
+  "type": "writing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2osfht.png",
+  "expectedWord": "ذكي",
+  "audio": "audios/lv2osfob.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ebc3c9ecba0e914355fbd"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 1,
+  "type": "writing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2ot4gh.png",
+  "expectedWord": "شمس",
+  "audio": "audios/lv2ot4l9.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ebe15f2b5b2b42922faee"
+  },
+  "text": "اختر الكلمات التي بها حروف منقوطة",
+  "difficulty": 2,
+  "type": "checkbox",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [
+    {
+      "text": "منضدة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ebe15f2b5b2b42922faef"
+      }
+    },
+    {
+      "text": "موز",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ebe15f2b5b2b42922faf0"
+      }
+    },
+    {
+      "text": "رمل",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ebe15f2b5b2b42922faf1"
+      }
+    },
+    {
+      "text": "سماء",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ebe15f2b5b2b42922faf2"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2p39j6.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec00cafd731aed8ffa58f"
+  },
+  "text": "ضع النقاط الناقصة فيما يلي",
+  "difficulty": 2,
+  "type": "dots",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [
+    236,
+    83,
+    227,
+    102,
+    245,
+    102,
+    78,
+    201
+  ],
+  "image": "images/lv2pe1ks.png",
+  "placeholder": "placeholder/lvt9p2it.jpg",
+  "audio": "audios/lv2pe1tv.mp3",
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "661ec232136089fe0f0dac7e"
+  },
+  "text": "ضع النقاط الناقصة فيما يلي",
+  "difficulty": 2,
+  "type": "dots",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [
+    30,
+    66,
+    45,
+    66,
+    279,
+    70,
+    106,
+    217,
+    213,
+    217
+  ],
+  "image": "images/lv2pptrs.png",
+  "placeholder": "placeholder/lvt9qga3.jpg",
+  "audio": "audios/lv2ppu5f.mp3",
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "661ec29d48ed7fb73db43fc1"
+  },
+  "text": "اختر الكلمات التي بها حروف منقوطة",
+  "difficulty": 2,
+  "type": "checkbox",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [
+    {
+      "text": "مشمش",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec29d48ed7fb73db43fc2"
+      }
+    },
+    {
+      "text": "سور",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ec29d48ed7fb73db43fc3"
+      }
+    },
+    {
+      "text": "غزال",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec29d48ed7fb73db43fc4"
+      }
+    },
+    {
+      "text": "رمل",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ec29d48ed7fb73db43fc5"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2ps4sz.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec2ec57f468e60dda3b8f"
+  },
+  "text": "اختر الكلمات التي بها حروف (ز - ش)",
+  "difficulty": 3,
+  "type": "checkbox",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [
+    {
+      "text": "زهراء",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec2ec57f468e60dda3b90"
+      }
+    },
+    {
+      "text": "سماء",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ec2ec57f468e60dda3b91"
+      }
+    },
+    {
+      "text": "شجرة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec2ec57f468e60dda3b92"
+      }
+    },
+    {
+      "text": "حب",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ec2ec57f468e60dda3b93"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2pttql.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec3537f4618d5da49aea9"
+  },
+  "text": "اختر الكلمات التي بها حروف (ذ - ظ)",
+  "difficulty": 3,
+  "type": "checkbox",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [
+    {
+      "text": "ذرة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec3537f4618d5da49aeaa"
+      }
+    },
+    {
+      "text": "كتاب",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ec3537f4618d5da49aeab"
+      }
+    },
+    {
+      "text": "ظبي",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec3537f4618d5da49aeac"
+      }
+    },
+    {
+      "text": "ذكي",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec3537f4618d5da49aead"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2pw13l.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec3cc141a14d9e80aa30a"
+  },
+  "text": "اختر الكلمات التي بها حروف منقوطة",
+  "difficulty": 1,
+  "type": "checkbox",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [
+    {
+      "text": "نحلة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec3cc141a14d9e80aa30b"
+      }
+    },
+    {
+      "text": "حيوان",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec3cc141a14d9e80aa30c"
+      }
+    },
+    {
+      "text": "علم",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ec3cc141a14d9e80aa30d"
+      }
+    },
+    {
+      "text": "سور",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ec3cc141a14d9e80aa30e"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2pym5q.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec43648ed7fb73db43fd0"
+  },
+  "text": "تتبع الكلمة التالية",
+  "difficulty": 1,
+  "type": "font tracing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2q0waf.png",
+  "placeholder": "placeholders/lvsijdtl.jpg",
+  "audio": "audios/lv2q0wi6.mp3",
+  "__v": 0,
+  "points": "tracing/lvsijdtl.json"
+},
+{
+  "_id": {
+    "$oid": "661ec48748ed7fb73db43fe7"
+  },
+  "text": "اختر الكلمات التي بها حروف منقوطة",
+  "difficulty": 1,
+  "type": "checkbox",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [
+    {
+      "text": "رغيف",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec48748ed7fb73db43fe8"
+      }
+    },
+    {
+      "text": "سر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ec48748ed7fb73db43fe9"
+      }
+    },
+    {
+      "text": "قطة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec48748ed7fb73db43fea"
+      }
+    },
+    {
+      "text": "كلب",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec48748ed7fb73db43feb"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2q2mz1.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec592f2fc4eff1651108c"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 2,
+  "type": "font tracing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2q8cw2.png",
+  "placeholder": "placeholders/lvsilksu.jpg",
+  "audio": "audios/lv2q8dff.mp3",
+  "__v": 0,
+  "points": "tracing/lvsilksu.json"
+},
+{
+  "_id": {
+    "$oid": "661ec74e48ed7fb73db43ff7"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 2,
+  "type": "writing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2qhv5o.png",
+  "expectedWord": "كتاب",
+  "audio": "audios/lv2qhvd8.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec7c915fc38a9205b830f"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 2,
+  "type": "writing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2qkian.png",
+  "expectedWord": "قمر",
+  "audio": "audios/lv2qkik5.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec7f648ed7fb73db4400c"
+  },
+  "text": "اختر الحرف المنقوط من الحروف التالية",
+  "difficulty": 3,
+  "type": "checkbox",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [
+    {
+      "text": "ق",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec7f648ed7fb73db4400d"
+      }
+    },
+    {
+      "text": "ب",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec7f648ed7fb73db4400e"
+      }
+    },
+    {
+      "text": "ل",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ec7f648ed7fb73db4400f"
+      }
+    },
+    {
+      "text": "ع",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ec7f648ed7fb73db44010"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2qlh0m.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec7fd48ed7fb73db44029"
+  },
+  "text": "\"اكتب مما هو معروض امامك كلمات من عندك بها حرف \"ب",
+  "difficulty": 1,
+  "type": "writing",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2qlmmr.jpg",
+  "expectedWord": "دجاجة",
+  "audio": "audios/lv2qlmsd.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec8a115fc38a9205b8335"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 3,
+  "type": "writing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2qp53i.png",
+  "expectedWord": "قطة",
+  "audio": "audios/lv2qp5ap.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec8a315fc38a9205b833b"
+  },
+  "text": " \"أختر ثم اكتب مما هو معروض امامك كلمات من عندك بها حرف \"ب",
+  "difficulty": 1,
+  "type": "writing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2qp6no.jpg",
+  "expectedWord": "كلب",
+  "audio": "audios/lv2qp6qr.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec8cd38301b2ec7272c26"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 3,
+  "type": "writing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2qq2wn.png",
+  "expectedWord": "نجمة",
+  "audio": "audios/lv2qq34e.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ec96338301b2ec7272c3b"
+  },
+  "text": "\"اختر الكلمات التي بها حروف \" ب - ت - ث ",
+  "difficulty": 2,
+  "type": "checkbox",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [
+    {
+      "text": "ثعلب",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec96338301b2ec7272c3c"
+      }
+    },
+    {
+      "text": "بيت",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661ec96338301b2ec7272c3d"
+      }
+    },
+    {
+      "text": "فيل",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ec96338301b2ec7272c3e"
+      }
+    },
+    {
+      "text": "قطة",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661ec96338301b2ec7272c3f"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2qtavf.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661edfb7ed80a55b3e047cc0"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 3,
+  "type": "writing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2u7t9z.png",
+  "expectedWord": "علم",
+  "audio": "audios/lv2u7tmp.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661ee049ed80a55b3e047cc6"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 3,
+  "type": "writing",
+  "skillId": "661a75a0f24bebe9f0533216",
+  "options": [],
+  "dots": [],
+  "image": "images/lv2uaxxg.png",
+  "expectedWord": "رسم",
+  "audio": "audios/lv2uay2m.mp3",
+  "__v": 0,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661efbbb6dcc0dc46a0e4e86"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ب",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661efbbb6dcc0dc46a0e4e87"
+      }
+    },
+    {
+      "text": "ــبــ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661efbbb6dcc0dc46a0e4e88"
+      }
+    },
+    {
+      "text": " ـب",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661efbbb6dcc0dc46a0e4e89"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2yhitx.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661efc0a8b21e7503aa3a067"
+  },
+  "text": "اختر الكلمة المختلفة في الحرف الأول عن باقي الكلمات",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "بدر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661efc0a8b21e7503aa3a068"
+      }
+    },
+    {
+      "text": "تمر",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661efc0a8b21e7503aa3a069"
+      }
+    },
+    {
+      "text": "بيت",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661efc0a8b21e7503aa3a06a"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2yj82m.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661efc6bd0623e3650db6b21"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ـج",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661efc6bd0623e3650db6b22"
+      }
+    },
+    {
+      "text": "ج",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661efc6bd0623e3650db6b23"
+      }
+    },
+    {
+      "text": "ـجـ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661efc6bd0623e3650db6b24"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2ylals.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "661efcc08948f1559d388038"
+  },
+  "text": "اختر الكلمة التي بها حرف ( ج ) أخر الكلمة",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "رحل",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661efcc08948f1559d388039"
+      }
+    },
+    {
+      "text": "خرج",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "661efcc08948f1559d38803a"
+      }
+    },
+    {
+      "text": "رجل",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "661efcc08948f1559d38803b"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv2yn44y.mp3",
+  "__v": 0,
+  "image": null,
+  "placeholder": null
+},
+{
+  "_id": {
+    "$oid": "662158ca01c98475489bd1df"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ب",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662158ca01c98475489bd1e0"
+      }
+    },
+    {
+      "text": "ــبــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662158ca01c98475489bd1e1"
+      }
+    },
+    {
+      "text": "ت",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662158ca01c98475489bd1e2"
+      }
+    },
+    {
+      "text": "ــب",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662158ca01c98475489bd1e3"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5ipgxg.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662158f2c3486b6ee602cd25"
+  },
+  "text": "اختر الكلمة المختلفة في الحرف الأول عن باقي الكلمات",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "بدر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662158f2c3486b6ee602cd26"
+      }
+    },
+    {
+      "text": "تمر",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662158f2c3486b6ee602cd27"
+      }
+    },
+    {
+      "text": "بيت",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662158f2c3486b6ee602cd28"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5iqc13.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6621595d01c98475489bd1ef"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ــج",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621595d01c98475489bd1f0"
+      }
+    },
+    {
+      "text": "ج",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621595d01c98475489bd1f1"
+      }
+    },
+    {
+      "text": "ــجــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621595d01c98475489bd1f2"
+      }
+    },
+    {
+      "text": "ح",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6621595d01c98475489bd1f3"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5ism44.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66215986c76475f739036dd5"
+  },
+  "text": "اختر الكلمة التي بها حرف ( ج ) أخر الكلمة",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "رحل",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66215986c76475f739036dd6"
+      }
+    },
+    {
+      "text": "خرج",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66215986c76475f739036dd7"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5ithvb.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662159bec76475f739036de1"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 2,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ــخ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662159bec76475f739036de2"
+      }
+    },
+    {
+      "text": "خ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662159bec76475f739036de3"
+      }
+    },
+    {
+      "text": "ــخــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662159bec76475f739036de4"
+      }
+    },
+    {
+      "text": "ج",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662159bec76475f739036de5"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5iup10.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662159f08d309563a1d9d2f0"
+  },
+  "text": "اختر الكلمة التي بها حرف ( خ ) أول الكلمة",
+  "difficulty": 2,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "خرج",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662159f08d309563a1d9d2f1"
+      }
+    },
+    {
+      "text": "جاع",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662159f08d309563a1d9d2f2"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5ivrss.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66215a25c3486b6ee602cd33"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 2,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ت",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66215a25c3486b6ee602cd34"
+      }
+    },
+    {
+      "text": "ــت",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66215a25c3486b6ee602cd35"
+      }
+    },
+    {
+      "text": "ــتــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66215a25c3486b6ee602cd36"
+      }
+    },
+    {
+      "text": "ث",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66215a25c3486b6ee602cd37"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5iwwjd.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66215a53c3486b6ee602cd42"
+  },
+  "text": "اختر الكلمة المختلفة في الحرف الأول عن باقي الكلمات",
+  "difficulty": 2,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "باب",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66215a53c3486b6ee602cd43"
+      }
+    },
+    {
+      "text": "تفاح",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66215a53c3486b6ee602cd44"
+      }
+    },
+    {
+      "text": "تمر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66215a53c3486b6ee602cd45"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5ixvzb.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66215ee9b343450c8ee3edef"
+  },
+  "text": "اختر الحرف المشابه للحرف المنفرد من بين مجموعة الحروف المقابلة فيما يلي",
+  "difficulty": 3,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ت",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66215eeab343450c8ee3edf0"
+      }
+    },
+    {
+      "text": "ا",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66215eeab343450c8ee3edf1"
+      }
+    },
+    {
+      "text": "بــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66215eeab343450c8ee3edf2"
+      }
+    },
+    {
+      "text": "ــــــــا",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66215eeab343450c8ee3edf3"
+      }
+    },
+    {
+      "text": "ث",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66215eeab343450c8ee3edf4"
+      }
+    }
+  ],
+  "dots": [],
+  "image": "images/lv5jn28p.png",
+  "audio": "audios/lv5jn2fb.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66215f25aece3a1ae5717f30"
+  },
+  "text": "اختر الحرف المشابه للحرف المنفرد من بين مجموعة الحروف المقابلة فيما يلي",
+  "difficulty": 3,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ج",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66215f25aece3a1ae5717f31"
+      }
+    },
+    {
+      "text": "خــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66215f25aece3a1ae5717f32"
+      }
+    },
+    {
+      "text": "ث",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66215f25aece3a1ae5717f33"
+      }
+    },
+    {
+      "text": "خ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66215f25aece3a1ae5717f34"
+      }
+    },
+    {
+      "text": "ــث",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66215f25aece3a1ae5717f35"
+      }
+    }
+  ],
+  "dots": [],
+  "image": "images/lv5joc84.png",
+  "audio": "audios/lv5joccs.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6621600d300c06d45b2e303b"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 3,
+  "type": "writing",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv5jtb3p.png",
+  "expectedWord": "ثلج",
+  "audio": "audios/lv5jtbax.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216080b0fca78cd4e012ab"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 3,
+  "type": "writing",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv5jvrsz.png",
+  "expectedWord": "ثعبان",
+  "audio": "audios/lv5jvs3f.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216102aece3a1ae5717f4a"
+  },
+  "text": "اختر الحرف المشابه للحرف المنفرد من بين مجموعة الحروف المقابلة فيما يلي",
+  "difficulty": 4,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ــح",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216102aece3a1ae5717f4b"
+      }
+    },
+    {
+      "text": "حــ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216102aece3a1ae5717f4c"
+      }
+    },
+    {
+      "text": "ــب",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216102aece3a1ae5717f4d"
+      }
+    },
+    {
+      "text": "أ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216102aece3a1ae5717f4e"
+      }
+    },
+    {
+      "text": "ــــجــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216102aece3a1ae5717f4f"
+      }
+    }
+  ],
+  "dots": [],
+  "image": "images/lv5jyk96.png",
+  "audio": "audios/lv5jykdv.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6621621e300c06d45b2e3043"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ــســ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621621f300c06d45b2e3044"
+      }
+    },
+    {
+      "text": "ــس",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621621f300c06d45b2e3045"
+      }
+    },
+    {
+      "text": "ش",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6621621f300c06d45b2e3046"
+      }
+    },
+    {
+      "text": "ســ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621621f300c06d45b2e3047"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5k4nsn.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216477e1fdb7478cc256ab"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 1,
+  "type": "writing",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv5khj1i.png",
+  "expectedWord": "ساعة",
+  "audio": "audios/lv5khj9e.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662164c63028b240ce19f10e"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 1,
+  "type": "writing",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv5kj8en.png",
+  "expectedWord": "سمكة",
+  "audio": "audios/lv5kj8nu.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216500e1fdb7478cc256b2"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "صـ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216500e1fdb7478cc256b3"
+      }
+    },
+    {
+      "text": "ــص",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216500e1fdb7478cc256b4"
+      }
+    },
+    {
+      "text": "ــصــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216500e1fdb7478cc256b5"
+      }
+    },
+    {
+      "text": "ش",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216500e1fdb7478cc256b6"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5kkgi6.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216560cc9f9a16b050dc86"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 2,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ــش",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216560cc9f9a16b050dc87"
+      }
+    },
+    {
+      "text": "شــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216560cc9f9a16b050dc88"
+      }
+    },
+    {
+      "text": "صــ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216560cc9f9a16b050dc89"
+      }
+    },
+    {
+      "text": "ــشــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216560cc9f9a16b050dc8a"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5kmikx.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662165c5e1fdb7478cc256c1"
+  },
+  "text": "اختر الكلمات التي بها حرف ( ص ) في أول الكلمة أو وسطها أو أخرها",
+  "difficulty": 2,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "صندوق",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662165c5e1fdb7478cc256c2"
+      }
+    },
+    {
+      "text": "قلم",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662165c5e1fdb7478cc256c3"
+      }
+    },
+    {
+      "text": "صحراء",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662165c5e1fdb7478cc256c4"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5kop6i.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216600cc9f9a16b050dc96"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 2,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ضـ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216600cc9f9a16b050dc97"
+      }
+    },
+    {
+      "text": "ـشـ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216600cc9f9a16b050dc98"
+      }
+    },
+    {
+      "text": "ـشــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216600cc9f9a16b050dc99"
+      }
+    },
+    {
+      "text": "ــــش",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216600cc9f9a16b050dc9a"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5kpyc2.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662166567a2333112c05f295"
+  },
+  "text": "اختر الكلمات التي بها حرف ( ض ) في أول الكلمة أو وسطها أو أخرها",
+  "difficulty": 2,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ضوء",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662166567a2333112c05f296"
+      }
+    },
+    {
+      "text": "لمبة",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662166567a2333112c05f297"
+      }
+    },
+    {
+      "text": "ضوضاء",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662166567a2333112c05f298"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5krsh3.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6621687b7a2333112c05f2ab"
+  },
+  "text": "اختر الكلمة التي تختلف في الحرف الأخير عن باقي الكلمات",
+  "difficulty": 3,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "تمر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621687b7a2333112c05f2ac"
+      }
+    },
+    {
+      "text": "برد",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6621687b7a2333112c05f2ad"
+      }
+    },
+    {
+      "text": "نمر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621687b7a2333112c05f2ae"
+      }
+    },
+    {
+      "text": "نهر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621687b7a2333112c05f2af"
+      }
+    },
+    {
+      "text": "زهر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621687b7a2333112c05f2b0"
+      }
+    },
+    {
+      "text": "بدر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621687b7a2333112c05f2b1"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5l3kiw.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662168fe7666b03482920c45"
+  },
+  "text": "اختر الكلمة التي تختلف في الحرف الأخير عن باقي الكلمات",
+  "difficulty": 3,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "براد",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662168fe7666b03482920c46"
+      }
+    },
+    {
+      "text": "برد",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662168fe7666b03482920c47"
+      }
+    },
+    {
+      "text": "نمر",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662168fe7666b03482920c48"
+      }
+    },
+    {
+      "text": "ورد",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662168fe7666b03482920c49"
+      }
+    },
+    {
+      "text": "جد",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662168fe7666b03482920c4a"
+      }
+    },
+    {
+      "text": "سعاد",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662168fe7666b03482920c4b"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5l6dk1.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216935ec7206ea4fa8f7e2"
+  },
+  "text": "اختر الكلمات التي بها حرف ( ر ) في أول الكلمة أو وسطها أو أخرها",
+  "difficulty": 3,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "رمان",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216935ec7206ea4fa8f7e3"
+      }
+    },
+    {
+      "text": "موز",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216935ec7206ea4fa8f7e4"
+      }
+    },
+    {
+      "text": "فراولة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216935ec7206ea4fa8f7e5"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5l7jku.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662169a87a2333112c05f2c1"
+  },
+  "text": "اختر الكلمة التي تختلف في الحرف الأخير عن باقي الكلمات",
+  "difficulty": 4,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "تمر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662169a87a2333112c05f2c2"
+      }
+    },
+    {
+      "text": "نمر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662169a87a2333112c05f2c3"
+      }
+    },
+    {
+      "text": "كرماذ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662169a87a2333112c05f2c4"
+      }
+    },
+    {
+      "text": "نهر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662169a87a2333112c05f2c5"
+      }
+    },
+    {
+      "text": "زهر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662169a87a2333112c05f2c6"
+      }
+    },
+    {
+      "text": "بدر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662169a87a2333112c05f2c7"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5la0tq.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662169f8ec7206ea4fa8f7f8"
+  },
+  "text": "اختر الكلمة التي تختلف في الحرف الأخير عن باقي الكلمات",
+  "difficulty": 4,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "براد",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662169f8ec7206ea4fa8f7f9"
+      }
+    },
+    {
+      "text": "برد",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662169f8ec7206ea4fa8f7fa"
+      }
+    },
+    {
+      "text": "ورد",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662169f8ec7206ea4fa8f7fb"
+      }
+    },
+    {
+      "text": "أرز",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662169f8ec7206ea4fa8f7fc"
+      }
+    },
+    {
+      "text": "سعاد",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662169f8ec7206ea4fa8f7fd"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5lbqfl.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216a5f7a2333112c05f2df"
+  },
+  "text": "اختر الحرف المختلف عن باقي الحروف",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "عــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216a5f7a2333112c05f2e0"
+      }
+    },
+    {
+      "text": "طــ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216a5f7a2333112c05f2e1"
+      }
+    },
+    {
+      "text": "ــع",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216a5f7a2333112c05f2e2"
+      }
+    },
+    {
+      "text": "ــعــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216a5f7a2333112c05f2e3"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5ldy60.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216aa9ec7206ea4fa8f813"
+  },
+  "text": "اختر الكلمات التي بها حرف ( ك ) في أخر الكلمة",
+  "difficulty": 2,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "كتب",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216aa9ec7206ea4fa8f814"
+      }
+    },
+    {
+      "text": "ضحك",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216aa9ec7206ea4fa8f815"
+      }
+    },
+    {
+      "text": "ذكر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216aa9ec7206ea4fa8f816"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5lfit3.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216b39d245119d6d9173a6"
+  },
+  "text": "اختر الحرف المشابه للحرف المنفرد من بين مجموعة الحروف المقابلة فيما يلي",
+  "difficulty": 4,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ـع",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216b39d245119d6d9173a7"
+      }
+    },
+    {
+      "text": "فـ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216b39d245119d6d9173a8"
+      }
+    },
+    {
+      "text": "كــ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216b39d245119d6d9173a9"
+      }
+    },
+    {
+      "text": "ط",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216b39d245119d6d9173aa"
+      }
+    }
+  ],
+  "dots": [],
+  "image": "images/lv5lim83.png",
+  "audio": "audios/lv5limdb.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216b61ec7206ea4fa8f820"
+  },
+  "text": "اختر الحرف المشابه للحرف المنفرد من بين مجموعة الحروف المقابلة فيما يلي",
+  "difficulty": 4,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ـظ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216b62ec7206ea4fa8f821"
+      }
+    },
+    {
+      "text": "طـ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216b62ec7206ea4fa8f822"
+      }
+    },
+    {
+      "text": "عـ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216b62ec7206ea4fa8f823"
+      }
+    },
+    {
+      "text": "ـغ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216b62ec7206ea4fa8f824"
+      }
+    }
+  ],
+  "dots": [],
+  "image": "images/lv5ljh5i.png",
+  "audio": "audios/lv5ljha8.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216c38aece3a1ae5717f84"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 3,
+  "type": "writing",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv5lo2ry.png",
+  "expectedWord": "عسل",
+  "audio": "audios/lv5lo2zn.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216c4dec7206ea4fa8f837"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 4,
+  "type": "writing",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv5loil1.png",
+  "expectedWord": "غراب",
+  "audio": "audios/lv5loiq7.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216cb97666b03482920c8e"
+  },
+  "text": "اختر الكلمات التي بها حروف (ف , ق) في أول ووسط وأخر الكلمة",
+  "difficulty": 5,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "فيل",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216cb97666b03482920c8f"
+      }
+    },
+    {
+      "text": "زرافة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216cb97666b03482920c90"
+      }
+    },
+    {
+      "text": "قرد",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216cb97666b03482920c91"
+      }
+    },
+    {
+      "text": "خوخ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216cb97666b03482920c92"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5lqu5u.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216e37aece3a1ae5717f95"
+  },
+  "text": "اختر الحرف المشابه للحرف المنفرد من بين مجموعة الحروف المقابلة فيما يلي",
+  "difficulty": 5,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ق",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216e37aece3a1ae5717f96"
+      }
+    },
+    {
+      "text": "ـف",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216e37aece3a1ae5717f97"
+      }
+    },
+    {
+      "text": "ـك",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216e37aece3a1ae5717f98"
+      }
+    },
+    {
+      "text": "ـفـ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216e37aece3a1ae5717f99"
+      }
+    }
+  ],
+  "dots": [],
+  "image": "images/lv5lz11e.png",
+  "audio": "audios/lv5lz15v.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216e95d245119d6d9173c1"
+  },
+  "text": "اختر الكلمات التي بها حروف ( ق , ك ) في أول أو وسط أو أخر الكلمة",
+  "difficulty": 6,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "كتاب",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216e95d245119d6d9173c2"
+      }
+    },
+    {
+      "text": "شنطة",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66216e95d245119d6d9173c3"
+      }
+    },
+    {
+      "text": "قلم",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66216e95d245119d6d9173c4"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5m11ar.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662170867666b03482920caf"
+  },
+  "text": "اختر الحرف المشابه للحرف المنفرد من بين مجموعة الحروف المقابلة فيما يلي",
+  "difficulty": 5,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ـع",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662170877666b03482920cb0"
+      }
+    },
+    {
+      "text": "قـ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662170877666b03482920cb1"
+      }
+    },
+    {
+      "text": "ظـ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662170877666b03482920cb2"
+      }
+    },
+    {
+      "text": "عـ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662170877666b03482920cb3"
+      }
+    }
+  ],
+  "dots": [],
+  "image": "images/lv5mbpbn.png",
+  "audio": "audios/lv5mbphu.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662172e02438cfdafd9e7942"
+  },
+  "text": "اختر الكلمة التي بها الحرف المطابق للحرف المنفرد في الصورة",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "لمع",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662172e02438cfdafd9e7943"
+      }
+    },
+    {
+      "text": "طلع",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662172e02438cfdafd9e7944"
+      }
+    },
+    {
+      "text": "جعل",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662172e02438cfdafd9e7945"
+      }
+    }
+  ],
+  "dots": [],
+  "image": "images/lv5molnq.png",
+  "audio": "audios/lv5molwm.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6621732331f1c87c6f37899d"
+  },
+  "text": "اختر الكلمة التي بها الحرف المطابق للحرف المنفرد في الصورة",
+  "difficulty": 1,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "مرج",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621732331f1c87c6f37899e"
+      }
+    },
+    {
+      "text": "عمل",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621732331f1c87c6f37899f"
+      }
+    },
+    {
+      "text": "علم",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6621732331f1c87c6f3789a0"
+      }
+    }
+  ],
+  "dots": [],
+  "image": "images/lv5mq0uo.png",
+  "audio": "audios/lv5mq12w.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662173572438cfdafd9e794f"
+  },
+  "text": "اختر الكلمة التي بها الحرف المطابق للحرف المنفرد في الصورة",
+  "difficulty": 2,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "نقص",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662173572438cfdafd9e7950"
+      }
+    },
+    {
+      "text": "كنس",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662173572438cfdafd9e7951"
+      }
+    },
+    {
+      "text": "أذن",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662173572438cfdafd9e7952"
+      }
+    }
+  ],
+  "dots": [],
+  "image": "images/lv5mr5ic.png",
+  "audio": "audios/lv5mr5me.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6621739031f1c87c6f3789aa"
+  },
+  "text": "اختر الكلمة التي بها الحرف المطابق للحرف المنفرد في الصورة",
+  "difficulty": 2,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "هجر",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6621739031f1c87c6f3789ab"
+      }
+    },
+    {
+      "text": "ظهر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621739031f1c87c6f3789ac"
+      }
+    },
+    {
+      "text": "كره",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6621739031f1c87c6f3789ad"
+      }
+    }
+  ],
+  "dots": [],
+  "image": "images/lv5msdgw.png",
+  "audio": "audios/lv5msdlw.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662179916fe74de9ad3d57d5"
+  },
+  "text": "اختر الحروف التي تقع في وسط الكلمة",
+  "difficulty": 3,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ـــنـــ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662179916fe74de9ad3d57d6"
+      }
+    },
+    {
+      "text": "هـــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662179916fe74de9ad3d57d7"
+      }
+    },
+    {
+      "text": "ـــلـــ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662179916fe74de9ad3d57d8"
+      }
+    },
+    {
+      "text": "ـــهـــ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662179916fe74de9ad3d57d9"
+      }
+    },
+    {
+      "text": "ـــي",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "662179916fe74de9ad3d57da"
+      }
+    },
+    {
+      "text": "ـــمـــ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "662179916fe74de9ad3d57db"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5npb7p.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66217a2ce946926bc95fbd1f"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 4,
+  "type": "writing",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv5nsn5c.png",
+  "expectedWord": "ولد",
+  "audio": "audios/lv5nsnee.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66217a8e2fb382ec5d7cffd4"
+  },
+  "text": "اختر مما هو معروض أمامك الكلمات التي بها حرف الواو",
+  "difficulty": 4,
+  "type": "checkbox",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "بنت",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217a8e2fb382ec5d7cffd5"
+      }
+    },
+    {
+      "text": "ولد",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66217a8e2fb382ec5d7cffd6"
+      }
+    },
+    {
+      "text": "وردة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66217a8e2fb382ec5d7cffd7"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5nuqdr.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66217aed2fb382ec5d7cffe2"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 5,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "لــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217aed2fb382ec5d7cffe3"
+      }
+    },
+    {
+      "text": "ــلــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217aed2fb382ec5d7cffe4"
+      }
+    },
+    {
+      "text": "د",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66217aed2fb382ec5d7cffe5"
+      }
+    },
+    {
+      "text": "ـــل",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217aed2fb382ec5d7cffe6"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5nwro2.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66217b49aa7416f52226fe91"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 5,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "نــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217b49aa7416f52226fe92"
+      }
+    },
+    {
+      "text": "ــنــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217b49aa7416f52226fe93"
+      }
+    },
+    {
+      "text": "يــ",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66217b49aa7416f52226fe94"
+      }
+    },
+    {
+      "text": "ــن",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217b49aa7416f52226fe95"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5nyr59.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66217b67aa7416f52226fea1"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 5,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "و",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66217b67aa7416f52226fea2"
+      }
+    },
+    {
+      "text": "هــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217b67aa7416f52226fea3"
+      }
+    },
+    {
+      "text": "ــهــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217b67aa7416f52226fea4"
+      }
+    },
+    {
+      "text": "ــه",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217b67aa7416f52226fea5"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5nze0u.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66217b83aa7416f52226feb0"
+  },
+  "text": "اختر الحرف المختلف في الشكل عن باقي الحروف",
+  "difficulty": 5,
+  "type": "mcq",
+  "skillId": "661a75f1d69cda9a81c0634b",
+  "options": [
+    {
+      "text": "ــخ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217b83aa7416f52226feb1"
+      }
+    },
+    {
+      "text": "خ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217b83aa7416f52226feb2"
+      }
+    },
+    {
+      "text": "ــخــ",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66217b83aa7416f52226feb3"
+      }
+    },
+    {
+      "text": "ج",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66217b83aa7416f52226feb4"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv5nzzcb.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623e4a75b2a05065dafe351"
+  },
+  "text": "اختر الكلمات التي بها حرف ( ب ) في أول الكلمة أو وسطها أو أخرها",
+  "difficulty": 1,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "بطة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623e4a75b2a05065dafe352"
+      }
+    },
+    {
+      "text": "كلب",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623e4a75b2a05065dafe353"
+      }
+    },
+    {
+      "text": "حمار",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6623e4a75b2a05065dafe354"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8a2836.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623e53eb433826292206d9f"
+  },
+  "text": "اختر الكلمات التي بها حروف ( ب - ت -ث)",
+  "difficulty": 2,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "ثعلب",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623e53eb433826292206da0"
+      }
+    },
+    {
+      "text": "بات",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623e53eb433826292206da1"
+      }
+    },
+    {
+      "text": "فيل",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6623e53eb433826292206da2"
+      }
+    },
+    {
+      "text": "أسد",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6623e53eb433826292206da3"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8a5gin.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623e5a0b433826292206dae"
+  },
+  "text": "اختر الكلمات التي بها حروف ( ب - ت -ث)",
+  "difficulty": 1,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "تمساح",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623e5a0b433826292206daf"
+      }
+    },
+    {
+      "text": "مصحف",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6623e5a0b433826292206db0"
+      }
+    },
+    {
+      "text": "كتاب",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623e5a0b433826292206db1"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8a7k70.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623e65a4da26d411fdea667"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 3,
+  "type": "writing",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv8abjkj.png",
+  "expectedWord": "بنت",
+  "audio": "audios/lv8abjsc.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623e6704da26d411fdea66d"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 3,
+  "type": "writing",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv8ac0h3.png",
+  "expectedWord": "تمساح",
+  "audio": "audios/lv8ac0pp.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623e6bcdd77649ec48bc0d1"
+  },
+  "text": "اختر الكلمات التي بها حرف ( ث ) في أول الكلمة أو وسطها أو أخرها",
+  "difficulty": 3,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "ثعلب",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623e6bcdd77649ec48bc0d2"
+      }
+    },
+    {
+      "text": "ثمرة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623e6bcdd77649ec48bc0d3"
+      }
+    },
+    {
+      "text": "تفاحة",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6623e6bcdd77649ec48bc0d4"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8adnbo.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623e71bb433826292206dc9"
+  },
+  "text": "اختر الكلمات التي بها حروف ( ب - ت -ث)",
+  "difficulty": 5,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "ثعبان",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623e71bb433826292206dca"
+      }
+    },
+    {
+      "text": "ترعة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623e71bb433826292206dcb"
+      }
+    },
+    {
+      "text": "سيارة",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6623e71bb433826292206dcc"
+      }
+    },
+    {
+      "text": "عين",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6623e71bb433826292206dcd"
+      }
+    },
+    {
+      "text": "باب",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623e71bb433826292206dce"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8afovm.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623ed37262f68bc9e575f74"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 4,
+  "type": "writing",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv8bd6x7.png",
+  "expectedWord": "جزر",
+  "audio": "audios/lv8bd7dx.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623ed570d55cc4b0cd4c734"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 4,
+  "type": "writing",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv8bdvrb.png",
+  "expectedWord": "خوخ",
+  "audio": "audios/lv8bdw07.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623eda5217304d8c57577f4"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 4,
+  "type": "writing",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv8bfjvu.png",
+  "expectedWord": "حوت",
+  "audio": "audios/lv8bfk2q.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623edcc217304d8c57577fa"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 1,
+  "type": "writing",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv8bge2p.png",
+  "expectedWord": "ساعة",
+  "audio": "audios/lv8bge78.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623ee5b262f68bc9e575fbb"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 2,
+  "type": "writing",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv8bjg62.png",
+  "expectedWord": "شجرة",
+  "audio": "audios/lv8bjgdc.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623ee870d55cc4b0cd4c758"
+  },
+  "text": "اختر الكلمات التي بها حرف ( ر ) في أول الكلمة أو وسطها أو أخرها",
+  "difficulty": 3,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "سرير",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623ee870d55cc4b0cd4c759"
+      }
+    },
+    {
+      "text": "غراب",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623ee870d55cc4b0cd4c75a"
+      }
+    },
+    {
+      "text": "علم",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6623ee870d55cc4b0cd4c75b"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8bkeqc.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623eeb53239e6f22197c07c"
+  },
+  "text": "اختر الكلمات التي بها حرف ( ز ) في أول الكلمة أو وسطها أو أخرها",
+  "difficulty": 3,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "ستارة",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6623eeb53239e6f22197c07d"
+      }
+    },
+    {
+      "text": "موز",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623eeb53239e6f22197c07e"
+      }
+    },
+    {
+      "text": "سيارة",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6623eeb53239e6f22197c07f"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8bleau.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623ef350d55cc4b0cd4c773"
+  },
+  "text": "اختر الكلمات التي بها حرف ( د ) في أول الكلمة أو وسطها أو أخرها",
+  "difficulty": 4,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "ذيل",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6623ef350d55cc4b0cd4c774"
+      }
+    },
+    {
+      "text": "ديك",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623ef350d55cc4b0cd4c775"
+      }
+    },
+    {
+      "text": "دجاجة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623ef350d55cc4b0cd4c776"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8bo4he.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623f79418ec8d31828076bd"
+  },
+  "text": "اختر الكلمات التي بها حرف ( ذ ) في أول الكلمة أو وسطها أو أخرها",
+  "difficulty": 5,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "ذيل",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623f79418ec8d31828076be"
+      }
+    },
+    {
+      "text": "سمكة",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6623f79418ec8d31828076bf"
+      }
+    },
+    {
+      "text": "ذراع",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6623f79418ec8d31828076c0"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8cy23a.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66240ce9ee20938a80a7501f"
+  },
+  "text": "اختر الكلمات التي بها حرفي ( ط أو ظ )",
+  "difficulty": 1,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "طيارة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66240ce9ee20938a80a75020"
+      }
+    },
+    {
+      "text": "ساعة",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66240ce9ee20938a80a75021"
+      }
+    },
+    {
+      "text": "ظرف",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66240ce9ee20938a80a75022"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8g73rs.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66240d414164bae8be62ce87"
+  },
+  "text": "اختر الكلمات التي بها حرفي ( ط أو ظ )",
+  "difficulty": 2,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "طاووس",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66240d414164bae8be62ce88"
+      }
+    },
+    {
+      "text": "طائر",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66240d414164bae8be62ce89"
+      }
+    },
+    {
+      "text": "ضابط",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66240d414164bae8be62ce8a"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8g8zq8.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66240fbe0d51508b78646b0e"
+  },
+  "text": "اختر الكلمات التي بها حرف ( ض ) في أول الكلمة أو وسطها أو أخرها",
+  "difficulty": 4,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "ضبع",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66240fbe0d51508b78646b0f"
+      }
+    },
+    {
+      "text": "ظبي",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "66240fbe0d51508b78646b10"
+      }
+    },
+    {
+      "text": "منضدة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "66240fbe0d51508b78646b11"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8gmntv.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6624108a94c3cfc3095d4e5f"
+  },
+  "text": "اختر الكلمات التي بها حرف ( ع  أو غ )",
+  "difficulty": 2,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "عين",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6624108a94c3cfc3095d4e60"
+      }
+    },
+    {
+      "text": "سماعة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6624108a94c3cfc3095d4e61"
+      }
+    },
+    {
+      "text": "غزالة",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6624108a94c3cfc3095d4e62"
+      }
+    },
+    {
+      "text": "نخلة",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6624108a94c3cfc3095d4e63"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8gr0vx.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662410ab0d51508b78646b3a"
+  },
+  "text": "اكتب مما يلي",
+  "difficulty": 3,
+  "type": "writing",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [],
+  "dots": [],
+  "image": "images/lv8grqdx.png",
+  "expectedWord": "غراب",
+  "audio": "audios/lv8grqnf.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6624111c94c3cfc3095d4e88"
+  },
+  "text": "اختر الكلمات التي بها احدى الحروف الاتيةة ( ف أو ق أو ي)",
+  "difficulty": 3,
+  "type": "checkbox",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [
+    {
+      "text": "فيل",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6624111c94c3cfc3095d4e89"
+      }
+    },
+    {
+      "text": "تمر",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6624111c94c3cfc3095d4e8a"
+      }
+    },
+    {
+      "text": "قرد",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6624111c94c3cfc3095d4e8b"
+      }
+    },
+    {
+      "text": "يمامة",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6624111c94c3cfc3095d4e8c"
+      }
+    }
+  ],
+  "dots": [],
+  "audio": "audios/lv8gu5h4.mp3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632090b9729cb9576e3e91b"
+  },
+  "text": "تتبع الكلمة التالية",
+  "difficulty": 1,
+  "type": "font tracing",
+  "skillId": "661a761ef24bebe9f053321b",
+  "options": [],
+  "dots": [],
+  "image": "images/lvnlv6je.png",
+  "placeholder": "placeholders/lvsime0g.jpg",
+  "audio": "audios/lvnlv6tl.mp3",
+  "__v": 0,
+  "points": "tracing/lvsime0g.json"
+},
+{
+  "_id": {
+    "$oid": "66379214714a3aec0f1b8f60"
+  },
+  "text": "test",
+  "difficulty": 1,
+  "type": "writing",
+  "skillId": "66322964f92994aba6e10127",
+  "dots": [],
+  "options": [],
+  "expectedWord": "جزر",
+  "audio": "audios/lvtlufdj.mp3",
+  "__v": 0
+}]
