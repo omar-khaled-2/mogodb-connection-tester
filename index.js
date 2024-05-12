@@ -21,33 +21,31 @@ async function main() {
 
 
 
-    // const skills = JSON.parse(await fs.readFile("skills.json"))
+    const skills = JSON.parse(await fs.readFile("skills.json"))
 
-    // for(const skill of skills) {
-    //     skill["_id"] = skill["_id"]["$oid"]
-    //     skill["_id"] = new ObjectId(skill["_id"])
-    // }
+    for(const skill of skills) {
+        skill["_id"] = skill["_id"]["$oid"]
+        skill["_id"] = new ObjectId(skill["_id"])
+    }
 
-    // await db.collection("skills").insertMany(skills)
+    await db.collection("skills").insertMany(skills)
 
 
-    // const questions = JSON.parse(await fs.readFile("questions.json"))
+    const questions = JSON.parse(await fs.readFile("questions.json"))
 
-    // for(const question of questions) {
-    //     question["_id"] = question["_id"]["$oid"]
-    //     question["_id"] = new ObjectId(question["_id"])
-    //     if(question["options"]) {
-    //         for(const option of question["options"]) {
-    //             option["_id"] = option["_id"]["$oid"]
-    //             option["_id"] = new ObjectId(option["_id"])
-    //         }
-    //     }
-    // }
+    for(const question of questions) {
+        question["_id"] = question["_id"]["$oid"]
+        question["_id"] = new ObjectId(question["_id"])
+        if(question["options"]) {
+            for(const option of question["options"]) {
+                option["_id"] = option["_id"]["$oid"]
+                option["_id"] = new ObjectId(option["_id"])
+            }
+        }
+    }
 
-    // await db.collection("questions").insertMany(questions)
-//   data = await fs.readFile("skills.json") 
-//   const skills = JSON.parse(data)
-//   await db.collection("skills").insertMany(skills)
+  await db.collection("questions").insertMany(questions)
+
 
   
 
